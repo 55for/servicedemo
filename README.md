@@ -14,6 +14,9 @@ service demo remoteview
   
   
 <img src="https://github.com/sanlisanlisanli/servicedemo/blob/master/imgs/04.jpg" width="260" height="480"/>   
+    
+    
+<img src="https://github.com/sanlisanlisanli/qqmusic/blob/master/imgs/05.jpg" width="260" height="480"/>  
   
-  
+   
 ...
