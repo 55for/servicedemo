@@ -1,7 +1,7 @@
 # servicedemo
 service demo remoteview  
    
-service,broadcastreceiver,notification demo      
+service,broadcastreceiver,notification,mediaplayer demo      
   
 <a href="https://github.com/sanlisanlisanli/servicedemo/tree/master/app/release">APK下载</a>   
   
